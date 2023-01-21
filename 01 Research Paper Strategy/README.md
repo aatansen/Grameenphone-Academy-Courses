@@ -188,3 +188,123 @@ to the extent that it leads to new and creative outcomes.
 </details>
 
 </details>
+
+<details>
+
+<summary>Module 2: Research Paper Reading Strategy</summary>
+
+<details>
+
+<summary>Class 01 : Why reading research paper is imperative / How to get research papers</summary>
+
+ **Why reading research paper is imperative?**
+        
+- To get the proper idea
+    - Basic idea on that topic
+    - methodology
+    - working procedure
+- To keep updated yourself
+    - get idea from old research
+    - update information
+- To find out the limitations
+    - challenging task solution
+    - find the limitation on that challenge
+    - previous research limitations
+
+**How to get research papers**
+
+| Source | Uses | Link |
+| --- | --- | --- |
+| Google Scholar | Find the related papers. | https://scholar.google.com/ |
+| Sci-Hub | Provide the DOI. | https://sci-hub.se/ |
+| ResearchGate | Find the author and paper. | https://www.researchgate.net/ |
+| Approach to authors | You can request for that paper. |  |
+| ORCID | Open Researcher and Contributor IDentifier . Uniquely identify authors and contributors. | https://orcid.org/ |
+| Scopus | Indexing Abstract and citation database. | https://www.scopus.com/home.uri |
+| Academia | A for-profit open repository of academic articles free to read by visitors. | https://www.academia.edu/ |
+
+</details>
+
+<details>
+
+<summary>Class 02 : How to read papers in effective way</summary>
+
+**How to read papers in effective way**
+
+- Take your time
+- Try to understand
+- Be patient
+- Take help
+
+**Strategies**
+
+- Read the title
+    - does it suit for my research
+    - is it related to my research
+- Look through the abstract
+    - get the idea of that paper
+- Go to the Conclusion
+    - get the summary of the research
+    - result of the end research
+    - some researchers write the limitation in this part and what is future plan of his research
+- Think about Context and Contribution
+    - what problem is solved by this research
+
+**Read more if it pass the strategies**
+
+- Understand the methodology
+    - problem can be solved in many way
+    - what method is used by the author to solve the problem
+    - understand that method
+- Read the result and other sections
+    - what result that author found
+    - how the author analyses
+    - how much I need to improve that result
+- Finding innovation, hidden failings / assumptions
+    - What innovation is found by this research
+    - what was author contribution
+    - find the limitation
+- Notes everything
+
+**Presentation Takeaways**
+
+- Picture
+- Graphs
+- Flowcharts
+- Diagrams
+
+**How many papers we need to read before publishing**
+
+- There is no limit
+    - read until get enough knowledge about that topic
+
+**Critically select the most important papers**
+
+- Find the best paper that suit my topic
+- gather important information
+
+</details>
+
+<details>
+
+<summary>Quiz</summary>
+
+**When we are reading a research paper we need to take enough time to understand it.**
+
+- [ ]  False
+- [x]  True
+
+**We need to search the appropriate resource for own research and for that we**
+
+- [ ]  We look first at the methodology section of that paper
+- [ ]  We look first at the Abstract part of that paper
+- [x]  We look first at the title of that paper
+
+**Without knowing the topic properly it’s impossible to do great research**
+
+- [x]  True
+- [ ]  False
+
+</details>
+
+</details>
