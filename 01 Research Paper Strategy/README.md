@@ -644,3 +644,283 @@ to the extent that it leads to new and creative outcomes.
 </details>
 
 </details>
+
+<details>
+<summary>Module 4: Research Paper Writing Strategy-Part 02</summary>
+
+<details>
+<summary>Class 01 : Result</summary>
+
+**How to Write Result**
+
+- Reporting the findings of study
+    - what we wanted to do
+    - what we get
+    - report key finding
+- Presenting the result sequentially
+    - maintain the sequence
+- Organizing the result properly
+    - reader must understand easily
+- Interpreting the findings of study
+    - Interpreting the output we get
+    - table , figure details
+    - table data
+    - what data calculated
+- Explaining the experimental setup / environment
+    - What we used in experiment
+    - experiment environment
+    - eg: python ,hardware etc
+- Accurate calculation
+    - Data calculation
+    - equation used
+    - result of the calculation
+- Clear image captioning, Table arrangement
+    - image used details
+    - table data details
+    - how we get the output
+- Interpreting all figures and tables
+    - all used table interpreting
+    - what this figure used for
+    - details etc
+- Explaining how the result is improving the challenging task
+    - How my result is improve
+    - previous result vs my result
+
+**What Should be Written**
+
+- Data presentation in tables, charts, graphs, and other figures
+    - reader should understand it
+    - represent it in simple way
+    - represent it in many ways
+- A contextual analysis of this data explaining its meaning in sentence
+    - explain the data
+- All data that corresponds to the central research question
+    - which challenge I worked on
+    - which gap I am filling
+- All secondary findings (secondary outcomes, subgroup analysis, etc)
+    - analyzing the secondary findings
+
+**Not to Forget**
+
+- Presenting more than one result in one figure effectively
+    - reduce the number of similar result
+- Writing “Result” part more concisely
+    - not too much elaborate
+    - follow the limitation
+- Maintaining “Figure Quality”
+    - image quality must be clear
+- Converting Table of Figure
+    - use `Microsoft Excel` to convert
+- How to minimize the number of figure and tables
+    - reduce according the limit
+    - not too much lengthy
+
+**Example**
+
+- [Moving Object Detection Using Ultrasonic Radar with Proper Distance, Direction, and Object Shape Analysis](https://e-journal.unair.ac.id/JISEBI/article/view/18840)
+- [A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network](https://www.mdpi.com/2227-9032/9/2/153)
+
+</details>
+
+<details>
+<summary>Class 02 : Discussion</summary>
+
+**How to write Discussion**
+
+- It is optional
+- we can add it in result part
+- Author describes, analyzes, and interprets their findings.
+- explain the significance of those result
+- tie everything back to the research question
+- how do the result bridge the gap
+
+**What is the purpose of a Discussion Section**
+
+- The discussion reviews the findings and puts them into the context of the overall research.
+- It brings together all the sections that came before it and allows a reader to see the connections between each part of the research paper.
+- In a discussion section, the author engages in three necessary steps: interpretation, analysis, and explanation.
+- An effective discussion section will tell a reader why the research results are important and where they fit in the current literature.
+
+**How to organize “Discussion” Section**
+
+```mermaid
+%%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
+graph TD
+    A[Summarize the key findings,</br> place the findings in context] --> B[Mention and discuss </br>any unexpected results]
+    B -->C[Address limitations or</br> weaknesses in the research]
+    C -->D[Conclude with a restatement of the most</br> significant findings and their implications]
+```
+
+**Things to avoid**
+
+- Don’t rewrite the result section
+- Don’t draw conclusions from the findings without support
+- Don’t bring up new information
+- Don’t analyze only literature section
+
+**Example**
+
+- [Moving Object Detection Using Ultrasonic Radar with Proper Distance, Direction, and Object Shape Analysis](https://e-journal.unair.ac.id/JISEBI/article/view/18840)
+- [A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network](https://www.mdpi.com/2227-9032/9/2/153)
+
+</details>
+
+<details>
+<summary>Class 03 : Conclusion</summary>
+
+**How to write Conclusion**
+
+- The conclusion of a research paper restates the research problem, summarizes your arguments or findings, and discusses the implications
+- You can also include the future work of your research
+- Indicate opportunities for future research
+- **What is the main purpose of a Conclusion Section**
+    - Restating the research problem which is addressed in the paper
+        - which problem I am solving
+    - Summarizing the overall arguments or findings
+- **Abstract and Conclusion are same?**
+    - Abstract —> Its a short note that express the contents of the work
+    - Conclusion —> Its a statement / decision reached by the researcher based on findings in the research
+
+**Steps to follow**
+
+```mermaid
+%%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
+graph TD
+    A[Restate problem and </br>position] --> B[Summarise your key </br>points]
+    B -->C[What this argument</br>helps you conclude]
+    C -->D[Consider implications </br>or borader significance</br> of the topic]
+```
+
+**Things to avoid!!**
+
+- Too elaborate and bring conflict
+- To bring unnecessary topics which are not mentioned in the object of your research
+- To forget providing negative information and limitations
+- To provide in general report
+
+**Not to forget**
+
+- Mentioning limitations but which actually didn’t hamper the core idea of research study
+- Maintain the word limit
+- Mention future work
+
+**Example**
+
+- [Moving Object Detection Using Ultrasonic Radar with Proper Distance, Direction, and Object Shape Analysis](https://e-journal.unair.ac.id/JISEBI/article/view/18840)
+- [A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network](https://www.mdpi.com/2227-9032/9/2/153)
+
+</details>
+
+<details>
+<summary>Class 04 : Reference and proper citation & Acknowledgement</summary>
+
+**How to write Reference**
+
+- It helps to avoid plagiarism
+- Unethical claim
+- Which ideas are your own
+- Which ideas are someone else’s
+- It shows your understanding of the topic
+- gives supporting evidence for ideas, arguments and opinions
+- It indicate where you got the work or information from
+- Writing style: `APA style`, `MLA style` & `Chicago style`
+
+**Basic Citation Elements**
+
+- Author(s)
+- Title(s)
+- Source or venue name (e.g. name of the journal it was published or conference where it was presented)
+- Editor(s)
+- Volume and edition
+- Date or year of publication
+- Page numbers
+- City and country
+- Publisher or university for theses
+- URL for online sources
+- DOI
+- Retrieval date for online sources with dynamic content subjected to change
+
+**Citation Styles**
+
+- APA Style Citation —> APA (`American Psychological Association`)
+- MLA Style Citation —> MLA (`Modern Language Association`) based in the U.S.
+- Chicago/Turabian Style —> These Style are `interchangeable`
+- IEEE Style —> Mainly used for reports in `electronics`, `engineering`, `computer science`, `telecommunications`, & `technology`
+
+**Acknowledgement Section**
+
+- it is important sections for academic research papers
+- it appreciates all the contributors of the research paper for their efforts
+- Not directly connected but help in research
+
+**Why Acknowledgement Section?**
+
+- it helps to identify the contributors you should try to get everyone who is involved in this research
+    - it include the following:
+        - Who help Authors/ Classmates
+        - Colleagues
+        - Institution/ Department
+        - Funding Organization/ Donor
+        - Professors/ Supervisors
+        - Administrative personnel
+        - Reviewers
+- The information supplied in the acknowledgement section of academic writing should be kept concise.
+
+**Some phrases to start acknowledgement :**
+
+- I’m extremely grateful to …
+- I’d like to express my deepest thanks to…
+- This project would not have been possible without…
+- I cannot begin to express my thanks to...…, Who…
+- I would like to extend my deepest gratitude to…
+- I would like to pay my special regards to …
+- I would like to recognize the invaluable assistance of..…
+- I would also like to thank…
+- I must also thank…
+- I’d also like to express my gratitude to…
+- Especially, I would like to thank…
+- I am very grateful to…
+- I should also appreciate…
+
+**Example**
+
+- [Moving Object Detection Using Ultrasonic Radar with Proper Distance, Direction, and Object Shape Analysis](https://e-journal.unair.ac.id/JISEBI/article/view/18840)
+- [A Deep Learning Approach for Brain Tumor Classification and Segmentation Using a Multiscale Convolutional Neural Network](https://www.mdpi.com/2227-9032/9/2/153)
+
+</details>
+
+<details>
+<summary>Quiz</summary>
+
+1. **“All data that corresponds to the central research question”-is correct for which section?**
+    - [ ]  Discussion
+    - [ ]  Methodology
+    - [x]  Result
+2. **“interpretation, analysis, and explanation”-three are important for which section?**
+    - [ ]  Result
+    - [x]  Discussion
+    - [ ]  Methodology
+3. **“Abstract” and “Conclusion” are predominantly homogeneous**
+    - [ ]  False
+    - [x]  True
+4. **“Don’t draw conclusions from the findings without support”-this statement is correct for which section?**
+    - [x]  Discussion
+    - [ ]  Conclusion
+    - [ ]  Result
+5. **Which points are correct for “Result” section?**
+    - [ ]  Proper interpretation of result
+    - [ ]  Statement of improved result
+    - [x]  All above are correct
+    - [ ]  Experimental values
+6. **Conclusion section needs to**
+    - [ ]  Showing the contrast between the previous and proposed result
+    - [ ]  State the previous results
+    - [x]  Summarize all arguments
+7. **References are not only important for listing authentic sources but also**
+    - [ ]  It can provide extra information to readers
+    - [ ]  It can enhance your acceptance rate of research paper
+    - [x]  Both (A) and (B) are correct
+
+</details>
+
+</details>
