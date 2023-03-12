@@ -191,7 +191,7 @@ to the extent that it leads to new and creative outcomes.
 
 <details>
 
-<summary>Module 2: Research Paper Reading Strategy</summary>
+<summary>Module 02 : Research Paper Reading Strategy</summary>
 
 <details>
 
@@ -310,7 +310,7 @@ to the extent that it leads to new and creative outcomes.
 </details>
 
 <details>
-<summary>Module 3: Research Paper Writing Strategy-Part 01</summary>
+<summary>Module 03 : Research Paper Writing Strategy-Part 01</summary>
 
 <details>
 <summary>Class 01 : Writing the first draft / Proper Research Title / Key word</summary>
@@ -646,7 +646,7 @@ to the extent that it leads to new and creative outcomes.
 </details>
 
 <details>
-<summary>Module 4: Research Paper Writing Strategy-Part 02</summary>
+<summary>Module 04 : Research Paper Writing Strategy-Part 02</summary>
 
 <details>
 <summary>Class 01 : Result</summary>
@@ -920,6 +920,369 @@ graph TD
     - [ ]  It can provide extra information to readers
     - [ ]  It can enhance your acceptance rate of research paper
     - [x]  Both (A) and (B) are correct
+
+</details>
+
+</details>
+
+<details>
+<summary>Module 05 : Research ethics, Journal conference selection and Modern Research paper writing tools</summary>
+
+<details>
+<summary>Class 01 : Research Ethics</summary>
+
+**What does it means**
+
+- Ethics —> Ethics are the set of rules that govern our expectations of our own and others’ behavior
+
+**Research Ethics**
+
+- Research ethics are the set of ethical guidelines that guides us on how scientific research should be conducted and disseminated.
+    - follow the guideline of scientific research
+- Research ethics govern the standards of conduct for scientific researchers. It is the guideline for responsibly conducting the research.
+    - follow the world wide research guideline
+- Research that implicates human subjects or contributors rears distinctive and multifaceted ethical, legitimate, communal and administrative concerns.
+    - maintain the privacy of collected data, info
+    - verify the collected data is real
+    - maintain all the issues
+- Research ethics is unambiguously concerned in the examination of ethical issues that are upraised when individuals are involved as participants n the study.
+    - involvement of human privacy is first
+- Research ethics committee/ `Institutional Review Board` (IRB) reviews whether the research is ethical enough or not to protect the rights, dignity and welfare of the respondents.
+    - collected data is correct, quality of data is good then it is ethical
+
+**Research Objective**
+
+- The first and comprehensive objective —> to guard/protect human participants, their dignity, rights and welfare .
+- The second objective —> to make sure that research is directed in a manner that assists welfares of persons, groups and/or civilization as a whole.
+- The third objective —> to inspect particular research events and schemes for their ethical reliability, considering issues such as the controlling risk, protection of privacy and the progression of informed consent.
+
+**Ethical Principles of Research**
+
+- Honesty (**সততা**)
+- Responsibility (**দায়িত্ব**)
+- Privacy (**গোপনীয়তা**)
+- Confidentiality (**বিশ্বাসপ্রবণতা**)
+- Autonomy (**ব্যক্তিস্বাধীনতা**)
+- Beneficence (**উপকারিতা**)
+- Non-maleficence (**অ-দুর্বৃত্ত - ক্ষতি না করা**)
+- Competence (**কর্মদক্ষতা**)
+- Integrity (**সততা**)
+- Justice (**ন্যায়পরতা**)
+- Dignity (**মর্যাদা**)
+
+**Research Ethics For Authors**
+
+- Research ethics are moral principles that guide researchers to conduct and report research without deception or intention to harm the participants of the study or members of the society as a whole, whether knowingly or unknowingly.
+
+**Some Ethics For Authors**
+
+- Authors wishing to publish their papers in journals/conference must abide to the following:
+    - Accurately present their research findings
+    - Including an objective discussion of the significance of findings.
+    - All and only those who qualify for authorship should be included as authors, and their contribution given in the manuscript.
+    - Any facts that might be perceived as a possible conflict of interest of the author(s) must be disclosed in the paper prior to submission.
+    - Data and methods used in the research need to be presented in sufficient detail in the paper so that other researchers can replicate the work. Raw data must be made publicly available unless there is a compelling reason otherwise (e.g., patient confidentiality).
+    - Simultaneous submission of manuscripts to more than one journal is not permitted.
+    - Original research results must be novel and not, including being previously published in another language.
+    - For any content previously published (including quotations, figures or tables), any necessary permission to publish must be obtained from the copyright holder.
+    - Errors and inaccuracies found after publication must be promptly communicated to the Editorial Office.
+    - Authors must not use the words, figures, or ideas of others without attribution. All sources must be cited at the point they are used, and reuse of wording must be limited and be attributed or quoted in the text.
+    - Authors must declare all potential interests in a `Conflicts of interest` section, which should explain why the interest may be a conflict.
+    - Research misconduct means making up or falsifying data, manipulating data analyses, or
+    misrepresenting results in research reports. It's a form of academic fraud.
+
+</details>
+
+<details>
+
+<summary>Class 02 : Journal and conference selection</summary>
+
+**For Conference Paper**
+
+- First, find a conference that is looking for submissions.
+- Search on Google
+- Utilizing contacts and connections you might have within any professional organizations
+- Social media sources (Group , Pages)
+- Publisher quality, indexing
+- Does it match my field
+- Track down running , upcoming conferences
+
+**For Journal Paper**
+
+- Find journal based on scope and ranking
+
+**Top Tips For Selection**
+
+- Make sure your paper fits within the scope of the journal/ of conference
+- Assess the credentials of the journal or publisher
+- Browse the content they publish for quality and relevance to your field
+- Check the quality of their website
+- Check what tools and services they offer to authors
+- Submit your research to one journal only, but check if they offer transfers to other journals
+- Follow the instructions for authors carefully
+
+**Two main factors to consider when choosing a journal**
+
+- your paper fits within the journal’s scope, and the reputation of the journal itself.
+    1. The reputation of the journal. A journal's impact factor is only one measure of its reputation, but not always the most important. You need to consider the prestige of the authors that publish in the journal, and the size of the journal's readership.
+    2. You have to chose the journal you think is the best fit for your study and your goals and standard for your manuscript.
+- You must observe the registration fee
+
+**More things to aware of**
+
+- Quality Criteria = Impact factor
+- Be aware  of FAKE journals !!!
+- Only One impact factor is given by “Thomson Reuters”
+- Master Journal List of Thomson Reuters - get impact factors. Which is real and shows the quality criteria
+
+**Types and Quality**
+
+- Journal with 30-40 H-index is good enough.
+- H-index actually means how much citation that journal received.
+- Journals are divided into 4 quarters: Q1, Q2, Q3, Q4.
+- Q1 represent first 25% of journals.
+- Q2 represent second 25% of journals.
+- Q3 represent third 25% of journals.
+- Q4 represent rest 25% of journals.
+- Q1 Journals indicate the top 25% journal.
+- Q1 and Q2 are really good journals.
+- When a journal is listed in “Master Journal List”, it means that has high level of editorial record
+
+**Quality Measurement Sites**
+
+- [Scimago](https://www.scimagojr.com/)
+- [Master Journal List](https://mjl.clarivate.com/home)
+- [Norwegian Register](https://kanalregister.hkdir.no/publiseringskanaler/Forside.action?request_locale=en)
+- [ABCD List](https://abdc.edu.au/research/abdc-journal-quality-list/)
+- [ABS Ranking](https://charteredabs.org/academic-journal-guide-2021/)
+
+**For more details**
+
+- [Core](http://portal.core.edu.au/jnl-ranks/) (`Conference paper` -`DISCONTINUED FROM MARCH 2022`)
+- [Scopus Preview](https://www.scopus.com/home.uri)
+- [Google Scholar](https://scholar.google.com/)
+
+**Not to forget**
+
+- DOI is important
+
+</details>
+
+<details>
+<summary>Class 03 : Proofread</summary>
+
+**What is Proofreading?**
+
+- It means examining your text carefully to find and correct typographical errors and mistakes in grammar, style, and spelling.
+- Checks work to identify all errors in spelling, punctuation and grammar. It also picks up errors in spelling, punctuation and grammar.
+- It also picks up instances of inconsistent terminology, formatting and referencing.
+- Proofreading tends to result in minor, aesthetic adjustments to text rather than big changes.
+
+**Proofreading vs Editing**
+
+| Proofreading | Editing |
+| --- | --- |
+| If it is science  | It is an art |
+| focus on error fixing | improve the quality of writing  |
+| it uses less creativity | it uses more creativity |
+| less changes | extensive changes |
+
+**Basic of Editing**
+
+- If proofreading is a science, editing is an art. Editing is the process of improving the overall quality of writing to make an essay the best it can possibly be. It uses much more creativity and often considers the feelings of the work's audience. As such,
+- Editing can cause extensive changes to text, bringing up questions such as:
+    - Have you chosen the most appropriate words to convey your meaning effectively?
+    - Have you used the passive voice?
+    - Is the tone right for the audience?
+    - Are there unnecessary words or overlong sentences?
+    - Can the structure of the essay be changed to?
+- Editing is all about making sure the meaning and ideas in a piece of work are conveyed in the best possible way, for the audience.
+
+**What is the main purpose of Proofreading**
+
+- Writing is the most effective way of communicating your research ideas and results. The quality of the research paper decreases if it is filled with spelling, punctuation, and grammatical errors. These errors undermine the credibility of your research work.
+- Proofreading is important to ensure that there is not any --> Grammatical error, Capitalization error, Numbering error. Spelling error
+- Good research papers (not only well written but also well edited and formatted) tend to reflect an individual’s thinking through their writing to the readers of the paper.
+
+**Top items for proofreading**
+
+- Basic Spelling and Grammar
+- Proper Nouns
+- Verb Tenses
+- Sentence Structure
+- Formatting
+- Consistency
+- Idioms
+- Overall Flow
+
+**Not to forget**
+
+- Grammarly Premium Subscription
+- Native English Speaker - for proofreading
+
+</details>
+
+<details>
+<summary>Class 04 : Templating (modern and conventional)</summary>
+
+**Template**
+
+- The formatting guidelines for a research paper differ by style guide.
+- Standard size, font, margin, spacing, alignment of text and others are different from one template to another. But it’s an important issue.
+- The purpose of a conference template is to provide a consistent format for papers appearing in the conference proceedings.
+
+**Conventional way**
+
+- Using Microsoft Word : for example `references tab`
+
+**Latest way**
+
+- [LaTex](https://www.latex-project.org/) - Great tool but difficult for non-coder
+- [Open Office](https://www.openoffice.org/)
+- [Libre Office](https://www.libreoffice.org/)
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+- [Google Docs](https://docs.google.com/document/u/0/)
+- [Drop Box Paper](https://www.dropbox.com/paper/start)
+
+**What is LaTex**
+
+- Latex is a document preparation system and LaTeX is a software system.
+- LaTeX is a free software package created in 1985 by the American computer scientist.
+- LaTeX was created to make it easier to produce general purpose books and articles within TeX.
+- LaTeX is available as free software. You don't have to pay for using LaTex, i.e., there are no license fees, etc.
+- LaTeX is a programming language in a fashion similar to C. In particular, LaTeX code must be compiled to produce a document.
+- It's difficult or easy? --> could be difficult for non-coder
+- LaTeX gives the user extremely good control over the formatting of documents.
+- LaTeX can create scientific documents that look professional and accurately reflect the precise equations and other graphics necessary to express the researcher's work.
+- [Overleaf](https://www.overleaf.com/)
+    - It is a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents.
+    - It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.
+
+**Example**
+
+- Search for `ieee paper template` on [google](https://www.ieee.org/conferences/publishing/templates.html)
+
+</details>
+
+<details>
+<summary>Class 05 : Latex detail</summary>
+
+**How to start**
+
+- [LaTeX command](https://www.bu.edu/math/files/2013/08/LongTeX1.pdf)
+- Open and Overleaf account
+- Latex template collecting
+- Uploading the file
+- Start to work
+
+</details>
+
+<details>
+<summary>Class 06 : Different research paper writing modern tools</summary>
+
+**Research article writing tools**
+
+- Help organizing
+- Help to track the citation
+- Proper graphical representation
+- Improving writing ability
+
+**What should we use research writing tools?**
+
+- Academic writing can be a daunting and time-consuming process, but with the help of the right tools you can make writing your paper much easier.
+- Papers and reports can take hours or days to complete and require intense dedication to perfect.
+- Smarter way
+- Bring perfection in writing
+
+**Purpose of use**
+
+- Writing and editing a draft
+- Rewording / Paraphrasing
+- Organizing the manuscript
+- Referencing
+
+**Research Writing Tools (various tools are used for different purpose)**
+
+- [Todoist](https://todoist.com/) is a task management app that can help you stay organized during the writing process. Todoist can be used for planning, scheduling, and building the outline for your personal, work, and academic tasks.
+- [Grammarly](https://www.grammarly.com/) is a typing assistant that uses artificial intelligence to identify any errors in spelling, grammar, and punctuation, then suggests an appropriate replacement.
+The basic function of Grammarly is free, which helps identify most spelling and grammar errors, but for a more robust check on everything you write, a paid upgraded premium version is available.
+- [Ref-n-Write](https://www.ref-n-write.com/) is a tool with an impressive library of phrases used in academic writing. Using artificial intelligence technology, the tool provides details on choosing the right academic phrase, cross-referencing previous work, suggesting new ideas, and more. Non-native English speakers may find this tool helpful to paraphrase their text and improve their English writing skills through practice.
+- [QuillBot](https://quillbot.com/) is the best paraphrasing tool because it has a
+built-in Al feature that understands your content
+and paraphrases it while keeping the context
+intact.
+    - QuillBot's Paraphraser helps you write better, faster, and smarter.
+    - QuillBot is an extremely useful & powerful paraphrasing tool we have ever used.
+    - QuillBot's Paraphraser is fast, free, and easy to use, which makes it the best paraphrasing tool of the market.
+
+**Grammar Checkers and Sentence Correction Tools**
+
+- [MS Word Spelling & Grammar checker](https://www.microsoft.com/en-ww/microsoft-365/word)
+- [ProWritingAid](https://prowritingaid.com/)
+- [CorrectEnglish](https://correctenglish.com/)
+- [StyleWriter](https://www.stylewriter-usa.com/)
+- [WhiteSmoke](https://www.whitesmoke.com/)
+- [Ginger Software](https://www.gingersoftware.com/)
+- [Online Grammar checking sites](https://www.google.com/search?q=Online+Grammar+checking+sites)
+
+**Statistical Analysis Tools**
+
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
+- [Matlab (The Mathworks)](https://www.mathworks.com/)
+- [SPSS (Statistical Package for the Social Sciences)](https://www.ibm.com/products/spss-statistics)
+- [Minitab](https://www.minitab.com/en-us/support/downloads/)
+- [R or Rstudio](https://www.r-project.org/)
+- [SAS (Statistical Analysis Software)](https://www.sas.com/en_us/software/stat.html)
+- [GraphPad Prism](https://www.graphpad.com/features)
+
+**Reference Management Tool**
+
+- [Zotero](https://www.zotero.org/) is a free and open-source reference management software to manage bibliographic data and related research materials.
+    - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
+    - If your research content is diverse, Zotero is the easiest method to gather citation records for non-PDF content.
+- [Mendeley](https://www.mendeley.com/) is a software company based in London, UK, which provides products and services for academic researchers. It is most known for its reference manager
+which is used to manage and share research papers and generate bibliographies for scholarly articles.
+    - Mendeley is a free reference manager that can help you store, organize, note, share and cite references and research data.
+
+**More Tools:**
+
+- [EndNote](https://endnote.com/)
+- [RefWorks](https://www.refworks.com/)
+- [Citavi](https://citavi.com/)
+- [PaperPile](https://paperpile.com/)
+- [JabRef](https://www.jabref.org/)
+- [Papers](https://www.papersapp.com/)
+- [Docear](https://docear.org/)
+
+</details>
+
+<details>
+<summary>Quiz</summary>
+
+1. **“Research ethics are the set of ethical guidelines that guide us on how scientific research should be conducted and disseminated.”- which states research ethics perfectly.**
+    - [x]  True
+    - [ ]  False
+2. **Overleaf is used to-**
+    - [ ]  Precise the paper
+    - [x]  Access Latex
+    - [ ]  Know the impact factor
+3. **How you will define impact factor**
+    - [ ]  Impact factor = Popularity of that journal
+    - [ ]  Impact factor = Published paper number
+    - [x]  Impact factor = Quality Criteria
+4. **“Though Latex language is similar to C but it is not used that much because it is costly”- the statement is -**
+    - [x]  False
+    - [ ]  True
+5. **Research ethics permit us to submit the same research work into various conference or journal- this statement is:**
+    - [ ]  False
+    - [x]  True
+        
+        > it is false but system didn’t accept it as `false`
+        > 
+6. **Which is necessary before submission:**
+    - [ ]  Check the authenticity of conference/journal
+    - [x]  Both (A) and (B) are correct
+    - [ ]  Check the tracklist
 
 </details>
 
