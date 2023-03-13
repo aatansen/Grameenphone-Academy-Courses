@@ -1287,3 +1287,86 @@ which is used to manage and share research papers and generate bibliographies fo
 </details>
 
 </details>
+
+<details>
+<summary>Module 06 : Maintaining some strategies before submission of a Research Paper</summary>
+
+<details>
+<summary>Class 01 : Final editing and Checking</summary>
+
+**Why needed**
+
+- To revise and finalize the research paper
+    - While transferring from draft to template
+- To avoid mistakes!!
+    - Grammatical mistake
+    - Sentence organization
+    - Spelling mistake
+    - Unnecessary complex word (use simple word to explain)
+    - Punctuation, structure etc
+- To check the format
+    - Check template format
+- To observe the number, analysis, graph, fig, table, reference.
+- To check the title, author name, abstract, conclusion again.
+
+**Grammarly and Plagiarism checking**
+
+- Plagiarism is presenting someone else's work or ideas as your own, with or without their consent, by incorporating it into your work without full.
+- Plagiarism is considered a violation of academic integrity such as truth and knowledge through intellectual and personal honesty in learning, teaching,
+research.
+- To detect the duplicate content
+- [Grammarly](https://www.grammarly.com/)
+- [Turnitin](https://www.turnitin.com/)
+
+</details>
+
+<details>
+<summary>Class 02 : Primary review from professional person</summary>
+
+**Why final edit and checking**
+
+- To make meaningful research paper
+- To find out the faults
+- To improve the research representation
+- To find an accurate conclusions
+- To find some amazing flaws so that that can be improved in future
+
+**Who can be that person?**
+
+- Professors
+- Supervisor
+- Peers
+- and others (experienced someone)
+
+</details>
+
+<details>
+<summary>Class 03 : Submission process</summary>
+
+**Submission sites**
+
+- [MDPI Journal](https://www.mdpi.com/)
+- [Elsevier](https://www.elsevier.com/)
+- [IEEE Access](https://ieeeaccess.ieee.org/)
+- [ICCIT Conference](https://iccit-conference.org/)
+
+</details>
+
+<details>
+<summary>Quiz</summary>
+
+1. **Before submission we need to check**
+    - [ ]  Graph, figure, table
+    - [x]  Author list and (A) and (B)
+    - [ ]  Format
+2. **Rajoshree completed her research paper and plagiarism while she observed that her similarity percentage is 59%.**
+    - [ ]  It’s a good one which indicates that this paper has more than 50% quality.
+    - [ ]  It’s not a good one which indicates that this paper has 59 references.
+    - [x]  It’s not a good one which indicates that this paper has more than 50% similarity with existing sources.
+3. **“To make your research paper meaningful, you can review your paper from a person how is highly professional in this matter” - the statement is**
+    - [x]  True
+    - [ ]  False
+
+</details>
+
+</details>
