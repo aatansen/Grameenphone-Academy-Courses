@@ -1370,3 +1370,30 @@ research.
 </details>
 
 </details>
+
+<details>
+<summary>Module 07 : Practical example of research paper and importance in real life</summary>
+
+<details>
+<summary>Class 01 : A practical example</summary>
+
+**Observing a research paper**
+
+- Paper : [Hybrid CNN-SVM Model for Brain Tumor Classification utilizing Different Datasets](https://ieeexplore.ieee.org/document/9641201)
+
+</details>
+
+<details>
+<summary>Class 02 : Research Paper writing impact on practical life Acknowledgement</summary>
+
+**What’s The Final Outcome**
+
+- If paper accepted—> Good
+- If rejected —> follow reviewer note, changes —> resubmit
+- Helpful for writing thesis
+- Research based career
+- Helpful for higher study
+
+</details>
+
+</details>
