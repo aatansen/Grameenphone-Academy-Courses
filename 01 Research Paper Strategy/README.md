@@ -1397,3 +1397,151 @@ research.
 </details>
 
 </details>
+
+<details>
+<summary>Module 08 : Research Strategy Review Paper Writing Nutshell and how to participate in competitions</summary>
+
+<details>
+<summary>Class 01 : Review Research Paper</summary>
+
+**What is review research paper?**
+
+- It is a survey of previously published research on a topic.
+- It should give an overview of current thinking on the topic.
+- And, unlike an original research article, it will not present new experimental results.
+- Writing a review of literature is to provide a critical evaluation of the data available from existing studies.
+
+**Try to understand the difference between research paper and review paper**
+
+**Research Paper**
+
+- A research paper is based on original research.
+- The kind of research may vary depending on your field or the topic
+(experiments, survey, interview, questionnaire, etc.), but authors need to collect
+and analyze raw data and conduct an original study. The research paper will be based on the analysis and interpretation of this data.
+
+**Review Paper**
+
+- A review article or review paper is based on other published articles.
+- It does not report original research.
+- Review articles generally summarize the existing literature on a topic in an attempt to explain the current state of understanding on the topic.
+
+**What is the format of a review paper?**
+
+- Review Research Paper include:
+    - An abstract
+    - An introduction
+    - A literature review section
+    - Sometimes a methods section if you have specifics to include
+    - Discussion &
+    - Conclusion section.
+
+**Purpose of Review Research Paper**
+
+- Provide the readers with in-depth knowledge and state-of-the-art understanding of the research area.
+- Provide a unified, collective overview of the current state of knowledge on a specific research topic and provide an inclusive, foundation on a research theme.
+- Identify ambiguity, contradictions in existing results or data.
+- Highlight the existing methodological approaches, research techniques and unique perceptions.
+- Develop theoretical outlines to resolve and work on published research
+- Discuss research gaps and future perspectives
+
+**How to write a BEST review paper?** 
+
+**Important to maintain 3 things:**
+
+- First, the area of research should be suitable for writing a review paper so that the author finds sufficient published literature.
+- The review paper should be written with suitable literature, detailed discussion, sufficient data/results to support the interpretation, and persuasive language style.
+- A completed review paper should provide substantial new innovative ideas to the readers based on the comparison of published works.
+
+**Important to know**
+
+- Firstly to choose review paper topic
+    - In that field many resource should be available
+    - Many work has been done
+    - Include important information
+- Interpretation
+- Analysis
+- Research Gap
+- How the research can be taken forward
+- It is big contribution to the research community
+
+**Length of Review Paper**
+
+- No specific length
+- It can be 7-12 pages or 30 to 40 pages , depend on chosen topic
+
+**How many citation is necessary?**
+
+- It will be more than research paper citation
+- 50 to 70 or it can be 100 plus
+- Depend on author citation
+- Generally 50 to 70
+
+</details>
+
+<details>
+<summary>Class 02 : Review Research Paper Example Explain</summary>
+
+- Papers :
+    - [Brain tumor detection and classification using machine learning: a comprehensive survey](https://link.springer.com/article/10.1007/s40747-021-00563-y)
+    - [Deep Learning for Smart Healthcare—A Survey on Brain Tumor Detection from Medical Imaging](https://www.mdpi.com/1424-8220/22/5/1960)
+
+</details>
+
+<details>
+<summary>Class 03 : Research Paper for Competition</summary>
+
+**How to find competitions** 
+
+- Institution
+- Organization
+- International
+
+**What type of paper I need to submit**
+
+- Must read the guidelines and other documents properly.
+- What actually they want.
+
+**What should be the Types**
+
+- Abstract  Writing or extended abstract Writing
+- Review paper Writing
+- Poster Paper Presentation
+- And so on
+
+**Must Maintain**
+
+- Instructions
+- Template
+
+**Tips & Tricks**
+
+- Good Research idea
+- Well Representation
+- Time management
+- Attending multiple competition
+
+</details>
+
+<details>
+<summary>Quiz</summary>
+
+1. **“First, the area of review research should be suitable for writing a review paper so that the author finds sufficient published literature.”- this statement**
+    - [ ]  False
+    - [x]  True
+2. **Most importantly, Review paper needs-**
+    - [x]  Both (A) and (B) are correct
+    - [ ]  Indication of research gap
+    - [ ]  Proper interpretation
+3. **Nehal writes a paper based on previously published and after a few days reviewer told him why he submit his paper in research paper category?**
+    - [ ]  This is said to him because he submits in two categories simultaneously.
+    - [ ]  This is said to him because he submitted it to wrong place.
+    - [x]  This is said to him because he writes review paper but he submits it into research paper category
+4. **Sarita is eagerly interested in submitting her research idea to her university competition. She writes that on her own and submits it before the deadline. But after 15 days she got the rejection mail. - what can be the reason?**
+    - [x]  She may forget to maintain authors guideline
+    - [ ]  She may forget about the page limitation
+    - [ ]  She may forget about the research ethics
+
+</details>
+
+</details>
